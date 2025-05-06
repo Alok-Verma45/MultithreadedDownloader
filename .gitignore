@@ -27,3 +27,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/MultithreadedDownloader.iml
+/downloaded_file
+/downloaded_image.jpg
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
